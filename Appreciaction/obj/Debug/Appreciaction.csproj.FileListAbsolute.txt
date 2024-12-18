@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Welcome\Appreciaction\bin\Debug\Appreciaction.exe.config
+C:\Users\DELL\source\repos\Welcome\Appreciaction\bin\Debug\Appreciaction.exe
+C:\Users\DELL\source\repos\Welcome\Appreciaction\bin\Debug\Appreciaction.pdb
+C:\Users\DELL\source\repos\Welcome\Appreciaction\obj\Debug\Appreciaction.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Welcome\Appreciaction\obj\Debug\Appreciaction.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Welcome\Appreciaction\obj\Debug\Appreciaction.exe
+C:\Users\DELL\source\repos\Welcome\Appreciaction\obj\Debug\Appreciaction.pdb

@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Welcome\TableMultiplication_for\bin\Debug\TableMultiplication_for.exe.config
+C:\Users\DELL\source\repos\Welcome\TableMultiplication_for\bin\Debug\TableMultiplication_for.exe
+C:\Users\DELL\source\repos\Welcome\TableMultiplication_for\bin\Debug\TableMultiplication_for.pdb
+C:\Users\DELL\source\repos\Welcome\TableMultiplication_for\obj\Debug\TableMultiplication_for.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Welcome\TableMultiplication_for\obj\Debug\TableMultiplication_for.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Welcome\TableMultiplication_for\obj\Debug\TableMultiplication_for.exe
+C:\Users\DELL\source\repos\Welcome\TableMultiplication_for\obj\Debug\TableMultiplication_for.pdb
