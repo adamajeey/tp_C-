@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Welcome\Factorielle\bin\Debug\Factorielle.exe.config
+C:\Users\DELL\source\repos\Welcome\Factorielle\bin\Debug\Factorielle.exe
+C:\Users\DELL\source\repos\Welcome\Factorielle\bin\Debug\Factorielle.pdb
+C:\Users\DELL\source\repos\Welcome\Factorielle\obj\Debug\Factorielle.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Welcome\Factorielle\obj\Debug\Factorielle.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Welcome\Factorielle\obj\Debug\Factorielle.exe
+C:\Users\DELL\source\repos\Welcome\Factorielle\obj\Debug\Factorielle.pdb

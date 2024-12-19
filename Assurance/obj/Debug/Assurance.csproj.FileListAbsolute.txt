@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Welcome\Assurance\bin\Debug\Assurance.exe.config
+C:\Users\DELL\source\repos\Welcome\Assurance\bin\Debug\Assurance.exe
+C:\Users\DELL\source\repos\Welcome\Assurance\bin\Debug\Assurance.pdb
+C:\Users\DELL\source\repos\Welcome\Assurance\obj\Debug\Assurance.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Welcome\Assurance\obj\Debug\Assurance.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Welcome\Assurance\obj\Debug\Assurance.exe
+C:\Users\DELL\source\repos\Welcome\Assurance\obj\Debug\Assurance.pdb
