@@ -16,9 +16,9 @@ namespace Assurance
             decimal montantDommages;
             while (!decimal.TryParse(Console.ReadLine(), out montantDommages) || montantDommages < 0)
             {
-                Console.WriteLine("Veuillez entrer un montant valide (nombre positif).");
+                Console.WriteLine("Veuillez entrer un montant valide.");
             }
-            // Calculer la franchise (10% du montant des dommages)
+            // Calculer la franchise 10% du montant des dommages
             decimal franchise = montantDommages * 0.10m;
             // S'assurer que la franchise ne dépasse pas 4000 euros
             if (franchise > 4000)
