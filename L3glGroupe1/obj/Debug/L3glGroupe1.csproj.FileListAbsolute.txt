@@ -5,3 +5,10 @@ C:\Users\DELL\source\repos\Welcome\L3glGroupe1\obj\Debug\L3glGroupe1.csproj.Asse
 C:\Users\DELL\source\repos\Welcome\L3glGroupe1\obj\Debug\L3glGroupe1.csproj.CoreCompileInputs.cache
 C:\Users\DELL\source\repos\Welcome\L3glGroupe1\obj\Debug\L3glGroupe1.exe
 C:\Users\DELL\source\repos\Welcome\L3glGroupe1\obj\Debug\L3glGroupe1.pdb
+E:\Cours\Cour_L3GL\C#\L3glGroupe1\bin\Debug\L3glGroupe1.exe.config
+E:\Cours\Cour_L3GL\C#\L3glGroupe1\bin\Debug\L3glGroupe1.exe
+E:\Cours\Cour_L3GL\C#\L3glGroupe1\bin\Debug\L3glGroupe1.pdb
+E:\Cours\Cour_L3GL\C#\L3glGroupe1\obj\Debug\L3glGroupe1.csproj.AssemblyReference.cache
+E:\Cours\Cour_L3GL\C#\L3glGroupe1\obj\Debug\L3glGroupe1.csproj.CoreCompileInputs.cache
+E:\Cours\Cour_L3GL\C#\L3glGroupe1\obj\Debug\L3glGroupe1.exe
+E:\Cours\Cour_L3GL\C#\L3glGroupe1\obj\Debug\L3glGroupe1.pdb
