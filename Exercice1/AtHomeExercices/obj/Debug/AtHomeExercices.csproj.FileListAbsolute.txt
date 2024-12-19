@@ -1,0 +1,7 @@
+C:\Users\Mouhamadou M SARR\source\repos\Exercice1\AtHomeExercices\obj\Debug\AtHomeExercices.csproj.AssemblyReference.cache
+C:\Users\Mouhamadou M SARR\source\repos\Exercice1\AtHomeExercices\obj\Debug\AtHomeExercices.csproj.CoreCompileInputs.cache
+C:\Users\Mouhamadou M SARR\source\repos\Exercice1\AtHomeExercices\bin\Debug\AtHomeExercices.exe.config
+C:\Users\Mouhamadou M SARR\source\repos\Exercice1\AtHomeExercices\bin\Debug\AtHomeExercices.exe
+C:\Users\Mouhamadou M SARR\source\repos\Exercice1\AtHomeExercices\bin\Debug\AtHomeExercices.pdb
+C:\Users\Mouhamadou M SARR\source\repos\Exercice1\AtHomeExercices\obj\Debug\AtHomeExercices.exe
+C:\Users\Mouhamadou M SARR\source\repos\Exercice1\AtHomeExercices\obj\Debug\AtHomeExercices.pdb
